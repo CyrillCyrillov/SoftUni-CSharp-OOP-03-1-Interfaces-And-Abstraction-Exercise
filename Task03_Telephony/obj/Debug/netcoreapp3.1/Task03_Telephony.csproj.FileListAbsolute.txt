@@ -1,0 +1,13 @@
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\obj\Debug\netcoreapp3.1\Task03_Telephony.csprojAssemblyReference.cache
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\obj\Debug\netcoreapp3.1\Task03_Telephony.AssemblyInfoInputs.cache
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\obj\Debug\netcoreapp3.1\Task03_Telephony.AssemblyInfo.cs
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\obj\Debug\netcoreapp3.1\Task03_Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\bin\Debug\netcoreapp3.1\Task03_Telephony.exe
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\bin\Debug\netcoreapp3.1\Task03_Telephony.deps.json
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\bin\Debug\netcoreapp3.1\Task03_Telephony.runtimeconfig.json
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\bin\Debug\netcoreapp3.1\Task03_Telephony.runtimeconfig.dev.json
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\bin\Debug\netcoreapp3.1\Task03_Telephony.dll
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\bin\Debug\netcoreapp3.1\Task03_Telephony.pdb
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\obj\Debug\netcoreapp3.1\Task03_Telephony.dll
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\obj\Debug\netcoreapp3.1\Task03_Telephony.pdb
+C:\Users\Kiril\OOP_CSharp\03_CSharp-OOP-Interfaces-And-Abstraction-Exercise\Task03_Telephony\obj\Debug\netcoreapp3.1\Task03_Telephony.genruntimeconfig.cache
